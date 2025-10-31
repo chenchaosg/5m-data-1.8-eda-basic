@@ -1,5 +1,5 @@
 # 1.8 EDA Basic
-# Test
+
 ## Dependencies
 
 Refer to the following markdown file for the respective sections of the class:
